@@ -16,3 +16,12 @@ Features:
 - Mobile responsive
 
 No installation required.
+Church Member Directory
+Name
+Phone
+Email
+Address
+Add Member
+
+
+Damascus Assembly Church Directory Prototype
